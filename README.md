@@ -1,5 +1,5 @@
 # MiRooTenth
-A Budget Autonomous Racing Platform Project.
+A Personal Budget Autonomous Racing Platform Project.
 
 Hardware Goal : Building a Budget(under $1000), RoboRacer-Compatible 1/10 scale RC car, equipped with Adequate Computing Power and High Quality Sensors.
 
