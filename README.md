@@ -1,7 +1,7 @@
 # MiRooTenth
 A Budget Autonomous Racing Platform Project.
 
-Hardware Goal : Building a Budget, RoboRacer-Compatible 1/10 scale RC car, equipped with Adequate Computing Power and High Quality Sensors.
+Hardware Goal : Building a Budget(under $1000), RoboRacer-Compatible 1/10 scale RC car, equipped with Adequate Computing Power and High Quality.
 
 Hokuyo UST-10LX
 Orbbec Gemini 2
